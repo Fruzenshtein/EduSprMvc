@@ -9,10 +9,13 @@
 <body>
 	<h1>Home page</h1>
 	<p>This is Home page.</p>
-	<p>
-		<a href="hobby-page.html">Hobby Form page</a> <br />
-		<a href="job-page.html">Job Offer page</a> <br />	
-		<a href="food-page.html">Food page</a> <br />
+	<h2>Check-box examples</h2>
+	<p>	
+		<a href="hobby-page.html">Hobby Form page</a> - Check-box with boolean value [checkbox tag].<br />
+		<a href="job-page.html">Job Offer page</a> - Check-box with String value [checkbox tag].<br />	
+		<a href="food-page.html">Food page</a> - Check-boxes with String array values [checkbox tag].<br />
+		<a href="football-page.html">Football page</a> - Check-boxes with List values [checkboxes tag].<br />
+		<a href="tourism-page.html">Tourism page</a> - Check-boxes with Map values [checkboxes tag].<br />
 	</p>
 </body>
 </html>
