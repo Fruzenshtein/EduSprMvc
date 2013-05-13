@@ -17,5 +17,10 @@
 		<a href="football-page.html">Football page</a> - Check-boxes with List values [checkboxes tag].<br />
 		<a href="tourism-page.html">Tourism page</a> - Check-boxes with Map values [checkboxes tag].<br />
 	</p>
+	<h2>Radio button examples</h2>
+	<p>	
+		<a href="table-reserve-page.html">Table Reserve page</a> - Radio button with String value [raiobutton tag].<br />
+		<a href="sport-page.html">Sport page</a> - Radio buttons with List values [raiobuttons tag].<br />
+	</p>
 </body>
 </html>
