@@ -22,5 +22,11 @@
 		<a href="table-reserve-page.html">Table Reserve page</a> - Radio button with String value [raiobutton tag].<br />
 		<a href="sport-page.html">Sport page</a> - Radio buttons with List values [raiobuttons tag].<br />
 	</p>
+	<h2>Select example</h2>
+	<p>	
+		<a href="phone-page.html">Phone page 1</a> - Select element based on Map [select tag].<br />
+		<a href="phone-option-page.html">Phone page 2</a> - Select element with hardcoded options [select & option tags].<br />
+		<a href="phone-options-page.html">Phone page 3</a> - Select element with options & options tags [select & options tags].<br />
+	</p>
 </body>
 </html>
