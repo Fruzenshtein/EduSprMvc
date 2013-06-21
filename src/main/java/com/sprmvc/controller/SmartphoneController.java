@@ -51,7 +51,7 @@ public class SmartphoneController {
 	}
 	
 	@RequestMapping(value="/phone-result")
-	private ModelAndView processTourism(@ModelAttribute Smartphone smartphone) {
+	private ModelAndView processPhone(@ModelAttribute Smartphone smartphone) {
 		ModelAndView mav = new ModelAndView("phone-result");
 		mav.addObject("smartphone", smartphone);		
 		return mav;
